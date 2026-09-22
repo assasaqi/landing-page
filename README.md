@@ -1,1 +1,1 @@
-# landing-page-v1
+# landing-page
